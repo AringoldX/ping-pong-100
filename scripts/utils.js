@@ -20,3 +20,4 @@ const utils = {
 if (typeof module !== 'undefined') {
   module.exports = utils;
 }
+
