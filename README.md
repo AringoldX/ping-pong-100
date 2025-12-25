@@ -11,3 +11,5 @@ Game by me for the [A Game By Its Cover 2016](https://itch.io/jam/a-game-by-its-
 Thanks to [Allan Alcorn](https://twitter.com/alalcorn) for creating Pong!
 
 ![alt text](100ng.jpg "100ng")
+
+Good day!
